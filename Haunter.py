@@ -11,7 +11,7 @@ try:
     import mechanize
 except ImportError:
     os.system('pip2 install mechanize')
-    os.system('python2 lovehacker.py')
+    os.system('python2 Haunter.py')
 
 from requests.exceptions import ConnectionError
 from mechanize import Browser
@@ -103,8 +103,8 @@ def login():
 		    st.write(z["access_token"])
 		    st.close()
 		    print (S + '[☆]' + Y + ' Login successfull 100% ✓')
-		    os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
-		    menu()
+		
+		
 		else:
 		    if "www.facebook.com" in z["error_msg"]:
 		        print (R + 'Account has a checkpoint !')

@@ -8,4 +8,4 @@ pip2 install mechanize
 git clone https://github.com/DevillHaunter/DarkDevill.git
 cd DarkDevill
 chmod +x *
-python2 Haunter.py
+python2 haunter.py

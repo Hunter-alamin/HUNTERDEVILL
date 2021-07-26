@@ -1,13 +1,22 @@
 # HUNTERDEVILL
-![](https://github-readme-stats.vercel.app/api?username=DevillHunter&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=Hunter-alamin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-# REQUIREMENTS
-pkg install python
+# COMMANDS
 
-pkg install python2
+pkg update && pkg upgrade 
 
-pip2 install requests
+pkg install python 
 
-pip2 install mechanize
+pkg install python2 
 
-pkg install git
+pkg install git 
+
+pip2 install requests 
+
+pip2 install mechanize 
+
+git clone  https://github.com/Hunter-alamin/HUNTERDEVILL
+
+cd HAUNTERDEVILL
+
+python2 haunter.py

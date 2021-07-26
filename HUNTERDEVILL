@@ -5,7 +5,6 @@ pkg install python2
 pkg install git
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/DevillHaunter/DarkDevill.git
-cd DarkDevill
-chmod +x *
+git clone https://github.com/Hunter-alamin/HUNTERDEVILL.git
+cd HUNTERDEVILL
 python2 haunter.py
